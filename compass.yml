@@ -4,7 +4,7 @@ description: null
 ownerId: null
 fields:
   tier: 4
-links: []
+links: ['https://github.com/Test-org-for-compass/test-repo']
 relationships: {}
 
 # Learn more about formatting compass.yml:
