@@ -1,0 +1,11 @@
+name: github component
+id: 'ari:cloud:compass:1b4c8374-0390-4711-8a21-e451839c78b6:component/f4799dfb-a959-4b31-a729-50995e72439d/0be53cb3-9f47-42db-ac75-7161f05f425b'
+description: null
+ownerId: null
+fields:
+  tier: 4
+links: []
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
