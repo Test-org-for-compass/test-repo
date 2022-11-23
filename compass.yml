@@ -5,7 +5,7 @@ ownerId: null
 fields:
   tier: 4
 links: 
-  - name: My github repo
+  - name: My test repo
     type: REPOSITORY
     url: 'https://github.com/Test-org-for-compass/test-repo'
 relationships: {}
